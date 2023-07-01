@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'pzn/belajar-php-composer-hello',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'frompzn/belajar-php-composer-hello',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'dc6a81017c59a47763830fe1de33a9b9b6bda19f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'pzn/belajar-php-composer-hello' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'frompzn/belajar-php-composer-hello' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'dc6a81017c59a47763830fe1de33a9b9b6bda19f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
